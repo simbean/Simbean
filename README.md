@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sb9338)](https://solved.ac/kinetic27)
 <!--
 **simbean/Simbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
