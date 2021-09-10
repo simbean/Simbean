@@ -2,6 +2,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb9338)](https://solved.ac/sb9338)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbean&show_icons=true&theme=highcontrast)
 
+
+### i can <img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <!--
 **simbean/Simbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
