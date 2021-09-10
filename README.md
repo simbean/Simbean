@@ -3,8 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbean&show_icons=true&theme=highcontrast)
 
 
-### i can <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
+### i can <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
 **simbean/Simbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
