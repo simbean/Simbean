@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb9338)](https://solved.ac/sb9338)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbean&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbean&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
